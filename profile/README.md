@@ -13,6 +13,7 @@ The projects officially supported by the team include:
 - [comfy-cli](https://github.com/Comfy-Org/comfy-cli) - use comfy in the command line.
 - [docs](https://github.com/Comfy-Org/docs) - official documentation of ComfyUI
 - [rfcs](https://github.com/Comfy-Org/rfcs) - ComfyUI standards
+- [embedded-docs](https://github.com/Comfy-Org/embedded-docs) - Descriptions & translations for nodes
 
 ## Contribute
 
