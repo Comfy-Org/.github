@@ -6,7 +6,7 @@ This is the official github organization for [Comfy Org](https://comfy.org).
 
 The projects officially supported by the team include: 
 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - the core ComfyUI repo.
+- [ComfyUI](https://github.com/comfy-org/ComfyUI) - the core ComfyUI repo.
 - [ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - where frontend features for ComfyUI are developed.
 - [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - for installing custom extensions.
 - [desktop](https://github.com/Comfy-Org/desktop) - ComfyUI desktop app.
